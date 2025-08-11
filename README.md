@@ -16,7 +16,6 @@ Built with Vite, React 18, TypeScript, and Tailwind CSS, this frontend provides 
 ## 🌟 Live Demo
 
 - **Frontend**: [https://teamsync-frontend-subham.vercel.app](https://teamsync-frontend-subham.vercel.app)
-- **Backend API**: [https://teamsync-backend-api-subham.vercel.app](https://teamsync-backend-api-subham.vercel.app)
 - **API Documentation**: [Wiki](https://github.com/TeamSync-in/teamsync-backend-api/wiki)
 
 ## ✨ Frontend Features
